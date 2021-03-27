@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Latihan1 Biodata</string>
+    <string name="nama">Nama</string>
+    <string name="namaValue">Adi Chandra Nugraha</string>
+    <string name="nim">NIM</string>
+    <string name="nimValue">10118015</string>
+    <string name="kelas">Kelas</string>
+    <string name="kelasValue">IF-1/S1/VI</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="jkValue">Laki-Laki</string>
+    <string name="ttl">TTL</string>
+    <string name="ttlValue">Bandung, 19 September 2000</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamatValue">Kp.Warung Peteuy Rt.03/Rw.01 Cicalengka</string>
+    <string name="gd">Golongan Darah</string>
+    <string name="gdValue">A</string>
+    <string name="makan">Makanan Kesukaan</string>
+    <string name="makanValue">Ayam Geprek, Ramen</string>
+    <string name="minum">Minuman Kesukaan</string>
+    <string name="minumValue">ThaiTea, Boba</string>
+    <string name="hobi">Hobi</string>
+    <string name="hobiValue">Main Game, Belajar</string>
+    <string name="lagu">Lagu Favorit</string>
+    <string name="laguValue">SugarCrash!</string>
+    <string name="film">Film Favorit</string>
+    <string name="filmValue">Fast &amp; Furious</string>
+    <string name="job">Pekerjaan Yang Diinginkan</string>
+    <string name="jobValue">Full Stack Dev, PNS</string>
+
+
+</resources>
